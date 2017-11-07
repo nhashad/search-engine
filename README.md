@@ -1,2 +1,1 @@
-# search-engine
-A full stack search engine
+<h2 align="center">Search Engine</h2>
