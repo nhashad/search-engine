@@ -9,4 +9,4 @@
 1. open a conda prompt: `conda create --name py36 python=3.6`
 2. `source activate py36`
 3. `cd ~/search-engine/src/newyorktimes/newyorktimes`
-4. `scrapy crawl newyorktimescrawler -o test.csv`
+4. `scrapy crawl newyorktimescrawler -o output.csv`
