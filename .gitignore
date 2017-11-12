@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# CSV files
+*.csv
+
+# Text files
+*.txt
+
 # Distribution / packaging
 .Python
 env/
@@ -99,3 +105,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Custom
+.DS_Store
+
