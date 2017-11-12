@@ -10,7 +10,6 @@ import scrapy
 
 class NewyorktimesItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
     url = scrapy.Field()
     link_title = scrapy.Field()
     link_authors = scrapy.Field()
